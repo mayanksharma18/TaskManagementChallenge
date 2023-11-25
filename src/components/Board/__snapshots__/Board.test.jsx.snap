@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board renders correctly 1`] = `
+<div>
+  <div
+    style="display: flex; flex-direction: column; margin-top: 20px;"
+  >
+    <div
+      data-testid="mock-board"
+    >
+      Create Board
+    </div>
+    <div
+      style="margin-top: 80px;"
+    >
+      <div
+        data-testid="mock-board"
+      >
+        Board List
+      </div>
+    </div>
+  </div>
+</div>
+`;

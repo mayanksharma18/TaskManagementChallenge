@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home renders Board component 1`] = `
+<div>
+  <div>
+    <header
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionStatic css-hip9hq-MuiPaper-root-MuiAppBar-root"
+    >
+      <div
+        class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-hyum1k-MuiToolbar-root"
+      >
+        <div
+          class="MuiTypography-root MuiTypography-h6 css-1juivf6-MuiTypography-root"
+        >
+          Task Management App
+        </div>
+      </div>
+    </header>
+    <div
+      class="MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular css-y44dvl-MuiToolbar-root"
+    >
+      <div
+        data-testid="mock-board"
+      >
+        Mocked Board
+      </div>
+    </div>
+  </div>
+</div>
+`;
